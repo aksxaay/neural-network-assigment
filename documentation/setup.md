@@ -17,3 +17,16 @@ uses `.pde` files or sumn lmfao.
 ### self driving car
 [Neural_Network_NEAT](https://github.com/Hilicot/Neural_Network_NEAT)
 this one is completely python and even has a game on it.
+
+had to install these packages
+```
+neat-python 0.92
+numpy       1.22.3
+pip         22.0.4
+pygame      2.1.2
+scipy       1.8.0
+setuptools  61.2.0
+wheel       0.37.1
+```
+
+also `pypi` is kinda wonky to use.
