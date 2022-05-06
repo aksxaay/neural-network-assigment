@@ -29,4 +29,4 @@ setuptools  61.2.0
 wheel       0.37.1
 ```
 
-also `pypi` is kinda wonky to use.
+NEAT - NeuroEvolution of Augmenting Topologies

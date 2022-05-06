@@ -3,7 +3,7 @@ py.font.init()
 
 
 #=================== General constants ==================================
-FPS = 30
+FPS = 60
 WIN_WIDTH = 1800
 WIN_HEIGHT = 1000
 STARTING_POS = (WIN_WIDTH/2, WIN_HEIGHT-100)
@@ -31,9 +31,9 @@ ROAD_DBG = False
 MAX_ANGLE = 1
 MAX_DEVIATION = 300
 SPACING = 200
-NUM_POINTS  = 15                #number of points for each segment
+NUM_POINTS  = 15              #number of points for each segment
 SAFE_SPACE = SPACING + 50       #buffer space above the screen
-ROAD_WIDTH = 200
+ROAD_WIDTH = 500
 
 #=================== Display and Colors ==================================
 
